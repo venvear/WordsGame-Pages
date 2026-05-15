@@ -1,6 +1,6 @@
 # Words Game Offline Pages
 
-Static public pages for Words Game Offline: marketing, privacy policy, support, and terms.
+Static public pages for Words Game Offline: marketing, privacy policy, support, and terms. Marketing copy is kept aligned with the App Store listing (offline base-word puzzle, EN/RU/ES noun packs, coins, daily tasks, hints).
 
 ## Deploy
 
