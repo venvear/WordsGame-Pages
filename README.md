@@ -1,6 +1,6 @@
-# Spell Scramble Pages
+# Words Game Offline Pages
 
-Static public pages for Spell Scramble: marketing, privacy policy, support, and terms.
+Static public pages for Words Game Offline: marketing, privacy policy, support, and terms.
 
 ## Deploy
 
