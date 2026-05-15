@@ -1,0 +1,22 @@
+# Spell Scramble Pages
+
+Static public pages for Spell Scramble: marketing, privacy policy, support, and terms.
+
+## Deploy
+
+This repository deploys itself through `.github/workflows/pages.yml`.
+
+GitHub repository settings:
+
+- Pages source: GitHub Actions.
+- Branch: `main`.
+- Public App Store link: `https://apps.apple.com/app/id6768779867`.
+
+The iOS app and App Store metadata currently point to:
+
+- `https://venvear.github.io/WordsGame/`
+- `https://venvear.github.io/WordsGame/privacy/`
+- `https://venvear.github.io/WordsGame/support/`
+- `https://venvear.github.io/WordsGame/terms/`
+
+If this standalone pages repository is deployed under a different GitHub Pages path, update `AppConfig.swift` and `appstore/metadata.store.json` before submitting the app.
